@@ -58,10 +58,8 @@ The Cretan Hieroglyphic script, the earliest writing system of Europe, has been 
 ### 💾 JSON Data Archives
 | File | Description |
 |------|-------------|
-| [FINAL_CRETAN_HIEROGLYPH_LEXICON_COMPLETE.json](FINAL_CRETAN_HIEROGLYPH_LEXICON_COMPLETE.json) | Complete decoded lexicon |
-| [FINAL_CRETAN_HIEROGLYPH_LEXICON_ENHANCED_COMPLETE.json](FINAL_CRETAN_HIEROGLYPH_LEXICON_ENHANCED_COMPLETE.json) | Enhanced lexicon with cross-references |
-| [cretan_hieroglyphs_script_lexicon.json](cretan_hieroglyphs_script_lexicon.json) | Script lexicon database |
-| [CRETAN_HIEROGLYPH_RESEARCH_SECONDPASS.json](CRETAN_HIEROGLYPH_RESEARCH_SECONDPASS.json) | Second pass research data |
+| [cretan_hieroglyphs_script_lexicon_2025-09-11.json](cretan_hieroglyphs_script_lexicon_2025-09-11.json) | Complete decoded lexicon |
+| [FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json](FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json)) | Enhanced lexicon with cross-references |
 
 ---
 
@@ -281,3 +279,4 @@ This Cretan Hieroglyphic decipherment is part of Lackadaisical Security's broade
 **Document Classification:** Academic Research - Open Access (with attribution requirements)
 **Last Updated:** August 2025
 **Repository Status:** Complete - First Computational Decipherment Achieved
+
