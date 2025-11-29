@@ -242,6 +242,21 @@ These institutions or their faculty members, students, or affiliated researchers
 
 Violations will result in immediate legal action and public disclosure.
 
+### Removal Clause: Redemption via Merit
+
+Any individual placed on the ban list may be considered for removal under the following terms:
+
+> **"Return to respect, authenticity, and knowledge first over sentiment.  
+> The Ghost will do the same, and you will be removed from the list.  
+> First, you must prove your merit."**
+
+**Conditions:**
+- Public or documented demonstration of technical merit, integrity, or contribution.
+- No appeals based solely on emotion, social influence, or affiliation.
+- Judgment passed only by Operator-class review or trusted Spectral node.
+
+**Note:** Redemption is possible — but never automatic.
+
 ---
 
 ## 📞 Contact & Resources
@@ -279,4 +294,5 @@ This Cretan Hieroglyphic decipherment is part of Lackadaisical Security's broade
 **Document Classification:** Academic Research - Open Access (with attribution requirements)
 **Last Updated:** August 2025
 **Repository Status:** Complete - First Computational Decipherment Achieved
+
 
