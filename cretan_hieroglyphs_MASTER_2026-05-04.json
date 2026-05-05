@@ -48,9 +48,9 @@
       "required": true,
       "preferred_citation": "Lackadaisical Security (The Operator) & Spectre. 'Cretan Hieroglyphic Script Master Lexicon'. 2025-08-17 Release v9.0. https://lackadaisical-security.com/cretan-hieroglyphic-research/lexicon.html"
     },
-    "repository": "https://github.com/your-repo/cretan-hieroglyph-lexicon",
+    "repository": "https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment",
     "repository_note": "Repository value retained from 61-entry lexicon; replace placeholder before publication if needed.",
-    "public_reference_url": "https://lackadaisical-security.com/cretan-hieroglyphic-research/lexicon.html",
+    "public_reference_url": "https://lackadaisical-security.com/cretan-hieroglyphic-research/index.html",
     "sources": [
       "Evans, A. J., Scripta Minoa (1909)",
       "Godart, L. & Olivier, J.-P., Corpus Hieroglyphicarum Inscriptionum Cretae (CHIC, 1996)",
