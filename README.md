@@ -59,7 +59,8 @@ The Cretan Hieroglyphic script, the earliest writing system of Europe, has been 
 | File | Description |
 |------|-------------|
 | [cretan_hieroglyphs_script_lexicon_2025-09-11.json](cretan_hieroglyphs_script_lexicon_2025-09-11.json) | Complete decoded lexicon |
-| [FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json](FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json)) | Enhanced lexicon with cross-references |
+| [cretan_hieroglyphs_MASTER_2026-05-04.json](cretan_hieroglyphs_MASTER_2026-05-04.json) | Updated complete decipherment lexicon |
+| [FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json](FINAL_CYPRO_MINOAN_LEXICON_ULTRA_ENHANCED_COMPLETE.json) | Enhanced lexicon with cross-references |
 
 ---
 
